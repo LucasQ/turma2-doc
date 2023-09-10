@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "name": "Breno Luizetto",
+      "email": "brenolz@itau-unibanco.com.br",
+      "id": 1
+    },
+    {
+      "name": "Lucas Queiroga",
+      "email": "lucasqrg@itau-unibanco.com.br",
+      "id": 2
+    },
+    {
+      "name": "Leonardo Alves",
+      "email": "leonardoavl@itau-unibanco.com.br",
+      "id": 3
+    }
+  ]
+}
